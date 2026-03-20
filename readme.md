@@ -28,7 +28,7 @@ Setup Instructions
 
 Clone the repository
 
-git clone <backend_repo_url>
+git clone (https://github.com/FathimaAs919/userbackend)
 cd users-backend
 
 Install dependencies
